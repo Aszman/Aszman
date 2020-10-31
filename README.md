@@ -1,5 +1,14 @@
 ### Hello there! 🧔🏼
 
+* Student of **AGH University of Science and Technology** 👨‍🎓
+* **19** years old 👶
+* **Video game** enthusiast 🕹️
+
+
+![](cat.gif)
+
+
+
 <!--
 **Aszman/Aszman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

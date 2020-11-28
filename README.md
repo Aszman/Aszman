@@ -6,7 +6,13 @@
 
 ---
 
-## [My Page](https://aszman.github.io/)
+## [Kod do przywracania starych, zniszczonych zdjęć](https://github.com/Aszman/Bringing-Old-Photos-Back-to-Life)
+
+## __[Artykuł](https://arxiv.org/pdf/2009.07047v1.pdf)__
+
+---
+
+ [My Page](https://aszman.github.io/)
 
 ---
 
@@ -25,4 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--

@@ -1,7 +1,7 @@
 ### Hello there! 🧔🏼
 
 * Student of **AGH University of Science and Technology** 👨‍🎓
-* **20** years old 👶
+* **21** years old 👶
 * **Video games** enthusiast 🕹️
 
 ---

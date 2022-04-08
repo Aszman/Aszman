@@ -1,6 +1,6 @@
 ### Hello there! 🧔🏼
 
-* Student of **AGH University of Science and Technology** 👨‍🎓
+* Student of **Computer Science & Intelligent Systems** at **AGH University of Science and Technology** 👨‍🎓
 * **21** years old 👶
 * **Video games** enthusiast 🕹️
 
